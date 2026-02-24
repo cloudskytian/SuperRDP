@@ -1,5 +1,7 @@
 # SuperRDP
 
+SuperRDP2.2 尽情期待...
+
 [SuperRDP2](https://raw.githubusercontent.com/anhkgg/SuperRDP/main/bin/SuperRDP2.zip)来了。
 
 **自动支持新版远程桌面， 欢迎使用！记得勾选自动分析的复选框！**
